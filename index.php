@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <p>stefan</p>
+    <p>stefan a robo pal</p>
+    <?php echo "Hello, World!"; ?>  <br>
+    <?php print "Hello, World!"; ?>
 </body>
 </html>
