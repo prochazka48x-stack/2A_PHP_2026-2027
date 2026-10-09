@@ -7,7 +7,12 @@
 </head>
 <body>
     <p>stefan a robo pal</p>
-    <?php echo "Hello, World!"; ?>  <br>
-    <?php print "Hello, World!"; ?>
+    <?php 
+    echo "Hello, World!"; <br>
+    //vytvorenie premenej a zadefinovanie hodnoty
+    $meno = "Stefan";
+    print_r($meno);
+     ?>
+
 </body>
 </html>
